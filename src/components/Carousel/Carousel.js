@@ -15,7 +15,7 @@ function Carousel() {
       </Section>
       <div class="row mt-5 car">
         <div class="col-md-4">
-          <h6 justify="center">From customers</h6>
+          <h6 justify="center"><b>From customers</b></h6>
           <div
             id="carouselExampleDark"
             class="carousel carousel-dark slide"
@@ -59,9 +59,7 @@ function Carousel() {
                 <div class="carousel-caption d-none d-md-block">
                   <p>
                     "Best location, managed by a well-reputed quality company.
-                    Efficient staff. Property on the main road, comfortable for
-                    transportation. Good quality buildings, safe parking and
-                    best connectivity.
+                    Efficient staff.
                   </p>
                   <h5>-Mr. Nitesh Sharma</h5>
                 </div>
@@ -104,7 +102,7 @@ function Carousel() {
           </div>
         </div>
         <div class="col-md-4">
-          <h6 justify="center">From Warehouse owners </h6>
+          <h6 justify="center"><b>From Warehouse owners</b> </h6>
           <div
             id="carouselExampleDark-2"
             class="carousel carousel-dark slide"
@@ -139,28 +137,27 @@ function Carousel() {
                   <p>
                     “Palletperday has extensive industry management experience.
                     I recently listed my warehouse on their site, and within a
-                    short period of time, I received significant sale earnings
-                    and the chance to network with well-known businesses”.
+                    short period of time, 
                   </p>
-                  <h5>First slide label</h5>
+                  <h5>-Tanveer Mehan</h5>
                 </div>
               </div>
               <div class="carousel-item" data-bs-interval="2000">
                 <img src={bn} class="d-block w-100" alt="..." />
                 <div class="carousel-caption d-none d-md-block">
                   <p>
-                    Some representative placeholder content for the first slide.
+                  Great advantages came from their WHS, which let me to monitor my entire inventory data online with regular updates.
                   </p>
-                  <h5>First slide label</h5>
+                  <h5>-Sushant Nagpal </h5>
                 </div>
               </div>
               <div class="carousel-item">
                 <img src={bn} class="d-block w-100" alt="..." />
                 <div class="carousel-caption d-none d-md-block">
                   <p>
-                    Some representative placeholder content for the first slide.
+                  Listed my warehouse with palletperday recently, and i must say im quite impressed with their flexible warehosing services
                   </p>
-                  <h5>First slide label</h5>
+                  <h5>-Himanshu Malik</h5>
                 </div>
               </div>
             </div>
@@ -191,7 +188,9 @@ function Carousel() {
           </div>
         </div>
         <div class="col-md-4">
-          <h6 justify="center">From Brokers / Landlords </h6>
+          
+          <h6 justify="center" ><b>From Brokers</b> </h6>
+          
           <div
             id="carouselExampleDark-3"
             class="carousel carousel-dark slide"
@@ -224,27 +223,27 @@ function Carousel() {
                 <img src={bn} class="d-block w-100" alt="..." />
                 <div class="carousel-caption d-none d-md-block">
                   <p>
-                    Some representative placeholder content for the first slide.
+                  About six months ago, we began working with Palletperday to launch our business. As our company expanded, palletperday offered shuttle services.
                   </p>
-                  <h5>First slide label</h5>
+                  <h5>-Vivek Oberio</h5>
                 </div>
               </div>
               <div class="carousel-item" data-bs-interval="2000">
                 <img src={bn} class="d-block w-100" alt="..." />
                 <div class="carousel-caption d-none d-md-block">
                   <p>
-                    Some representative placeholder content for the first slide.
+                  We got Free-of-cost marketing for our warehouse property and new business opportunity.
                   </p>
-                  <h5>First slide label</h5>
+                  <h5>-Trilok Kumar</h5>
                 </div>
               </div>
               <div class="carousel-item">
                 <img src={bn} class="d-block w-100" alt="..." />
                 <div class="carousel-caption d-none d-md-block">
                   <p>
-                    Some representative placeholder content for the first slide.
+                  In addition to being a trustworthy partner, we discovered them to be actually flexible with their services.
                   </p>
-                  <h5>First slide label</h5>
+                  <h5>-Rishi Sethi</h5>
                 </div>
               </div>
             </div>

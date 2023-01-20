@@ -22,7 +22,7 @@ export const FormContainer = styled.div`
 export const FormColumn = styled.div`
 	/* margin-bottom: 15px; */
 	padding: 50px;
-	background: #101522;
+	background: #db4437;
 	border: 20px;
 	/* padding: ${({ small }) => (small ? '0 50px' : '0 15px')}; */
 	flex: 1;

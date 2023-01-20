@@ -22,7 +22,7 @@ function Footer() {
 				<FooterGrid justify="space-between">
 					<FooterColumn id="footerLogo">
 						<FooterLogo to="/">
-							<SocialIcon src="./assets/ppd.png" />
+							<SocialIcon src="./assets/ppdw.png" />
 							
 						</FooterLogo>
 						<FooterAddress>

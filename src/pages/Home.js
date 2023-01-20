@@ -8,9 +8,10 @@ import { heroOne, heroTwo, heroThree } from '../data/HeroData'
 import Form from '../components/Form/Form'
 import Test from '../components/image box/Test'
 import whyus from "../images/whyus.jpg"
-import LISTINGINFOGRAPHICS from "../images/LISTINGINFOGRAPHICS.jpg"
+import LISTINGINFOGRAPHICS from "../images/LISTINGINFOGRAPHICS.png"
 import Accoridon from "../components/Accoridon/Accoridon"
 import { Section } from '../globalStyles'
+import "../app.css"
 
 // Hero Feature Content Carousel
 
@@ -25,7 +26,9 @@ const Home = () => {
     <img src={whyus} alt="whyus" />
     </div>
     <Counter/>
-    <img src={LISTINGINFOGRAPHICS} alt="LISTINGINFOGRAPHICS" />
+    <div className='info'>
+    <img src={LISTINGINFOGRAPHICS} alt="LISTINGINFOGRAPHICS"  />
+    </div>
     <Accoridon/>
     <Carousel/>
     <Form/>

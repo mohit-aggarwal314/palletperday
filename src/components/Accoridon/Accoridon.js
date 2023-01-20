@@ -35,7 +35,7 @@ function Accoridon() {
                   data-bs-toggle="tab"
                   href="#menu2"
                 >
-                  For Brokers / Landlords
+                  For Brokers
                 </a>
               </li>
             </ul>

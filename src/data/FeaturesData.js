@@ -12,13 +12,13 @@ const iconStyle = (Icon) => <Icon size="3rem" color="#0f0f0f" />;
 export const featuresData = [
 	{
 		name: 'Flexible Warehouse Services',
-		description: 'With the increasing demand of flexibility in warehouse services, Pallet Per Day is your flexible warehousing companion catering to the sudden shift in the volume and magnitude of inventories at different points of the year.',
+		description: 'With the increasing demand of flexibility in warehouse services, PalletPerDay is your flexible warehousing companion catering to the sudden shift in the volume and magnitude of inventories at different points of the year.',
 		icon: <img src={WAREHOUSE} alt="WAREHOUSE" />,
 		imgClass: 'one',
 	},
 	{
 		name: 'Secondary Distribution',
-		description: 'Pallet Per Day, the one-stop solution for all the warehousing & space for godown needs. Offering the transportation delivery mechanisms to facilitate the distribution network demands of the growing industries and business.',
+		description: 'PalletPerDay, the one-stop solution for all the warehousing & space for godown needs. Offering the transportation delivery mechanisms to facilitate the distribution network demands of the growing industries and business.',
 		icon: <img src={DISTRIBUTION} alt="DISTRIBUTION" />,
 		imgClass: 'two',
 	},
@@ -29,7 +29,7 @@ export const featuresData = [
 		imgClass: 'three',
 	},
 	{
-		name: 'Picking & Packing',
+		name: 'Value Added Services',
 		description: 'Apart from warehousing management, we offer pick and packing services at the doorstep. All your commodities are packed in sealed storage loading kits with internationally standardised safety packings.',
 		icon: <img src={PICKING} alt="PICKING" />,
 		imgClass: 'four',
