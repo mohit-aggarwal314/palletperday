@@ -33,12 +33,12 @@ function Counter({ className, ...rest }) {
               </CountUp>
             </strong>
             <span>
-              Warehouses
+             + Warehouses
             </span>
           </div>
           <div className="counter-column">
-            <strong data-number="305">
-              <CountUp {...rest} start={viewPortEntered ? null : 0} end={305}>
+            <strong data-number="26925">
+              <CountUp {...rest} start={viewPortEntered ? null : 0} end={26925}>
                 {({ countUpRef }) => {
                   return (
                     <ReactVisibilitySensor
@@ -59,7 +59,7 @@ function Counter({ className, ...rest }) {
               </CountUp>
             </strong>
             <span>
-              Listings
+               No of pallets
             </span>
           </div>
           <div className="counter-column">
@@ -89,8 +89,8 @@ function Counter({ className, ...rest }) {
             </span>
           </div>
           <div className="counter-column">
-            <strong data-number="305">
-              <CountUp {...rest} start={viewPortEntered ? null : 0} end={305}>
+            <strong data-number="14">
+              <CountUp {...rest} start={viewPortEntered ? null : 0} end={14}>
                 {({ countUpRef }) => {
                   return (
                     <ReactVisibilitySensor
@@ -111,7 +111,7 @@ function Counter({ className, ...rest }) {
               </CountUp>
             </strong>
             <span>
-              Locations
+             + Locations
             </span>
           </div>
         </div>
