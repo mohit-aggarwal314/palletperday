@@ -3,7 +3,7 @@ export const heroOne = {
 	inverse: true,
 	topLine: {},
 	headline: "One stop solution to your warehousing needs!",
-	description: 'Palletperday offers holistic warehousing support systems that are backed by technology. We have worked with the most prominent global brands and retailers to move swiftly, at scale, and precisely. Our flexible warehouse support system allows our clients to focus on their core business while enjoying top-notch storage and warehousing management services.',
+	description: 'Palletperday offers holistic warehousing support systems that are backed by technology. We have worked with the most prominent global brands and retailers to move swiftly, at scale. Our flexible warehouse support system allows our clients to focus on their core business while enjoying top-notch storage and warehousing management services.',
 	imgStart: 'start',
 	img: './assets/About_us.png',
 	start: 'true',
