@@ -27,7 +27,7 @@ function Test() {
           <h2 className="amv">Mission</h2>
           <div class="content">
             <p>
-            Palletperday is not only on a mission to provide top-quality services to the customers and fulfill all their storage and warehousing needs seemlessly, but to get the warehouses in front of potential customers. 
+            We in Palletperday strive to provide our customers with best-in-class warehousing services, and to help them find the right warehouse online at an affordable price and fulfill their storage needs seamlessly.
             </p>
           </div>
         </div>
@@ -38,7 +38,7 @@ function Test() {
           <h2 className="amv">Vision</h2>
           <div class="content">
             <p>
-            To become the leading warehouse operator and a single source for availing flexible warehousing services at the right price and for the right duration as and when required by businesses.
+            Our vision is to be the leading warehouse operator and a single source for availing flexible warehousing services for your all warehousing needs to ensure complete transparency, accountability alongside giving comfort to our warehouse owners on a global level.  
             </p>
           </div>
         </div>
